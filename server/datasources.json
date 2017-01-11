@@ -8,7 +8,7 @@
     "database": "Testes",
     "username": "",
     "password": "",
-    "name": "TorkDatabase",
+    "name": "torkdatabase",
     "modelIndex": "",
     "connector": "cloudant"
   }
