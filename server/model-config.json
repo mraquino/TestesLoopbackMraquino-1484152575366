@@ -23,15 +23,15 @@
     "public": false
   },
   "ACL": {
-    "dataSource": "TorkDatabase",
+    "dataSource": "db",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "TorkDatabase",
+    "dataSource": "db",
     "public": false
   },
   "Role": {
-    "dataSource": "TorkDatabase",
+    "dataSource": "db",
     "public": false
   }
 }
