@@ -3,16 +3,6 @@
     "name": "db",
     "connector": "memory"
   },
-  "TorkDatabase": {
-    "host": "",
-    "port": 0,
-    "url": "",
-    "database": "TestesTork",
-    "password": "",
-    "name": "TorkDatabase",
-    "user": "",
-    "connector": "mongodb"
-  },
   "TorkDatabaseBluemix": {
     "url": "https://0c3b4159-df57-4812-9f4b-31316a5ebc7d-bluemix:dda7b09cb0af0c704726e41ef76790cdc207e88bd17e5e36aee3c214cb328ae6@0c3b4159-df57-4812-9f4b-31316a5ebc7d-bluemix.cloudant.com",
     "database": "Testes",
