@@ -3,12 +3,12 @@
     "name": "db",
     "connector": "memory"
   },
-  "TorkDatabaseBluemix": {
-    "url": "https://0c3b4159-df57-4812-9f4b-31316a5ebc7d-bluemix:dda7b09cb0af0c704726e41ef76790cdc207e88bd17e5e36aee3c214cb328ae6@0c3b4159-df57-4812-9f4b-31316a5ebc7d-bluemix.cloudant.com",
+  "TorkDatabase": {
+    "url": "https://722d831e-1c5a-4407-8e7e-ae3dc7c5ee6f-bluemix:5922c34aa662265a45e8be3d7b7446d29f5cf4adc3dfe4ff22e1bea43338f11f@722d831e-1c5a-4407-8e7e-ae3dc7c5ee6f-bluemix.cloudant.com",
     "database": "Testes",
     "username": "",
     "password": "",
-    "name": "TorkDatabaseBluemix",
+    "name": "TorkDatabase",
     "modelIndex": "",
     "connector": "cloudant"
   }
