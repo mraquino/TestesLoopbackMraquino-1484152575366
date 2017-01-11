@@ -5,7 +5,7 @@
   },
   "TorkDatabase": {
     "url": "https://722d831e-1c5a-4407-8e7e-ae3dc7c5ee6f-bluemix:5922c34aa662265a45e8be3d7b7446d29f5cf4adc3dfe4ff22e1bea43338f11f@722d831e-1c5a-4407-8e7e-ae3dc7c5ee6f-bluemix.cloudant.com",
-    "database": "Testes",
+    "database": "torkdatabase",
     "username": "",
     "password": "",
     "name": "torkdatabase",
