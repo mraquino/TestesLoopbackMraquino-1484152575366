@@ -2,38 +2,36 @@
   "_meta": {
     "sources": [
       "../common/models",
-      "./models"
+      "./models",
+      "./node_modules/loopback-component-passport/lib/models"
     ]
   },
-  "AccessToken": {
-    "dataSource": "db",
+  "user": {
+    "dataSource": "TorkDatabase",
+    "public": true
+  },
+  "accessToken": {
+    "dataSource": "TorkDatabase",
+    "public": false
+  },
+  "userCredential": {
+    "dataSource": "TorkDatabase",
+    "public": false
+  },
+  "userIdentity": {
+    "dataSource": "TorkDatabase",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "TorkDatabase",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "TorkDatabase",
     "public": false
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "TorkDatabase",
     "public": false
-  },
-  "Car": {
-    "dataSource": "db"
-  },
-  "Customer": {
-    "dataSource": "db"
-  },
-  "Inventory": {
-    "dataSource": "db"
-  },
-  "Location": {
-    "dataSource": "db"
-  },
-  "Note": {
-    "dataSource": "db"
   }
 }
